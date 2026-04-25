@@ -4,6 +4,10 @@
 
 Colombia
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ing.+de+Sistemas+%7C+6%C2%B0+Semestre;Ciberseguridad+%26+Desarrollo+Web;AgroTech+%7C+IoT+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
+</div>
+
 ---
 
 ## Resumen Profesional
@@ -138,13 +142,6 @@ Plataforma web para la toma y visualización de variables ambientales en tiempo 
 - Automatización de procesos agrícolas
 - Integración de sensores físicos
 - Dashboards de monitoreo en tiempo real
-
----
-
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielAndresSilvaLopez&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndresSilvaLopez&layout=compact&theme=default&hide_border=true)
 
 ---
 
