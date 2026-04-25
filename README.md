@@ -1,11 +1,17 @@
+<div align="center">
+
 # Daniel Andrés Silva López
 
 **Estudiante de Ingeniería en Sistemas — 6° Semestre**
 
-Colombia
+Bogotá, Cundinamarca · Colombia
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ing.+de+Sistemas+%7C+6%C2%B0+Semestre;Ciberseguridad+%26+Desarrollo+Web;AgroTech+%7C+IoT+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Ing.+de+Sistemas+%7C+6%C2%B0+Semestre;Ciberseguridad+%26+Desarrollo+Web;AgroTech+%7C+IoT+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
+
+[![Email](https://img.shields.io/badge/d.silva.andres73%40hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:d.silva.andres73@hotmail.com)
+[![GitHub](https://img.shields.io/badge/DanielAndresSilvaLopez-181717?style=flat&logo=github&logoColor=white)](https://github.com/DanielAndresSilvaLopez)
+[![Location](https://img.shields.io/badge/Bogot%C3%A1%2C%20Cundinamarca-Colombia-green?style=flat&logo=google-maps&logoColor=white)]()
+
 </div>
 
 ---
@@ -16,35 +22,35 @@ Estudiante de Ingeniería en Sistemas (6° semestre) con enfoque técnico-comerc
 
 Cuento con experiencia práctica en diseño e implementación de sistemas de automatización agrícola, integración de sensores físicos con plataformas digitales y desarrollo de dashboards de monitoreo en tiempo real. Mi propuesta de valor está dirigida a empresas y proyectos del sector AgroTech que requieren digitalizar, automatizar y optimizar sus procesos mediante tecnología accesible, funcional y segura.
 
-- **Ubicación:** Colombia
-- **Nicho:** AgroTech · Ciberseguridad · Desarrollo Web
-- **Contacto:** *(agregar correo profesional)*
-
 ---
 
 ## Stack Tecnológico
 
+<div align="center">
+
 **Lenguajes de Programación**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Bases de Datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Herramientas y Plataformas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
@@ -147,6 +153,12 @@ Plataforma web para la toma y visualización de variables ambientales en tiempo 
 
 ## Contacto
 
-Si tienes un proyecto en el sector agroindustrial que requiere digitalización, automatización o desarrollo web, puedes contactarme directamente.
+<div align="center">
 
-> "Construyendo tecnología con impacto real en el campo colombiano."
+Si tienes un proyecto en el sector agroindustrial que requiere digitalización, automatización o desarrollo web, no dudes en escribirme.
+
+[![Email](https://img.shields.io/badge/Escribir%20al%20correo-d.silva.andres73%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:d.silva.andres73@hotmail.com)
+
+> *"Construyendo tecnología con impacto real en el campo colombiano."*
+
+</div>
